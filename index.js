@@ -10,7 +10,7 @@ function getDatas(){
             output+=`<li>${data.name}</>`;
         })
        document.body.innerHTML=output
-    }, 1000);
+    }, 2000);
 }
 
 
